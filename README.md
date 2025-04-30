@@ -1,0 +1,48 @@
+# Periodic Logs
+
+This repository is designed to manage and organize periodic logs, including daily and weekly notes. It leverages templates and scripts to streamline the creation and navigation of these notes.
+
+## Features
+
+- **Daily Logs**: Track daily tasks, events, and reflections.
+- **Weekly Logs**: Summarize weekly highlights, learnings, and history.
+
+## Folder Structure
+
+The workspace is organized as follows:
+
+```markdown
+Tracking/
+├── Daily/
+│   ├── YYYY-MM-DD.md
+├── Weekly/
+│   ├── YYYY-WW.md
+Templates/
+├── Daily.md
+├── Weekly.md
+└── scripts/
+    ├── daily.js
+    └── weekly.js
+```
+
+## Templates
+
+Templates are stored in the `Templates/` folder and are used to generate periodic notes. Each template includes placeholders for dynamic content, such as dates and custom sections.
+
+## Scripts
+
+Scripts in the `Templates/scripts/` folder automate the creation of daily and weekly logs. These scripts can be customized to fit your workflow.
+
+## Getting Started
+
+1. Install  Obsidian.
+2. Add new vault using this repo.
+3. Organize your logs in the `Tracking/` folder.
+
+## Contributing
+
+Feel free to contribute by improving templates, adding features, or suggesting enhancements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
