@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tracking/Daily/2025-04-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-04-30"
             }
           }
         ]
@@ -167,11 +167,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0c3247e9561e31e7",
+  "active": "a2696a867cb703a4",
   "lastOpenFiles": [
+    "README.md",
     "image.png",
     "Tracking/Daily/2025-04-30.md",
-    "README.md",
     "Templates/Weekly.md",
     "Templates/Daily.md",
     "attachments/Pasted image 20250502005945.png",

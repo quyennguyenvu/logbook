@@ -30,9 +30,9 @@ Tracking/
 Templates/
 ├── Daily.md
 ├── Weekly.md
-└── scripts/
-├── daily.js
-└── weekly.js
+├── scripts/
+│ ├── daily.js
+│ ├── weekly.js
 ```
 
 ## Templates
