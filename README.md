@@ -4,8 +4,18 @@ This repository is designed to manage and organize periodic logs, including dail
 
 ## Features
 
-- **Daily Logs**: Track daily tasks, events, and reflections.
-- **Weekly Logs**: Summarize weekly highlights, learnings, and history.
+### Daily Logs
+
+Track daily tasks, events, and reflections. Today notes will begin with task in `next up` section
+
+| ![20250502005945](attachments/Pasted%20image%2020250502005945.png) | ![20250502010013](attachments/Pasted%20image%2020250502010013.png) |
+| :----------------------------------------------------------------: | :----------------------------------------------------------------: |
+
+### Weekly Logs
+
+Summarize weekly highlights, learnings, and history.
+
+![20250502010422](attachments/Pasted%20image%2020250502010422.png)
 
 ## Folder Structure
 
@@ -14,15 +24,15 @@ The workspace is organized as follows:
 ```markdown
 Tracking/
 ├── Daily/
-│   ├── YYYY-MM-DD.md
+│ ├── YYYY-MM-DD.md
 ├── Weekly/
-│   ├── YYYY-WW.md
+│ ├── YYYY-WW.md
 Templates/
 ├── Daily.md
 ├── Weekly.md
 └── scripts/
-    ├── daily.js
-    └── weekly.js
+├── daily.js
+└── weekly.js
 ```
 
 ## Templates
@@ -35,8 +45,8 @@ Scripts in the `Templates/scripts/` folder automate the creation of daily and we
 
 ## Getting Started
 
-1. Install  Obsidian.
-2. Add new vault using this repo.
+1. Install Obsidian.
+2. Create new vault -> replace `.obsidian/` and `Templates/`.
 3. Organize your logs in the `Tracking/` folder.
 
 ## Contributing
