@@ -15,7 +15,8 @@ Track daily tasks, events, and reflections. Today notes will begin with task in 
 
 Summarize weekly highlights, learnings, and history.
 
-![20250502010422](attachments/Pasted%20image%2020250502010422.png)
+| ![20250502010422](attachments/Pasted%20image%2020250502010422.png) |
+| :----------------------------------------------------------------: |
 
 ## Folder Structure
 
