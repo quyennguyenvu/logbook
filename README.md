@@ -2,6 +2,16 @@
 
 This repository is designed to manage and organize periodic logs, including daily and weekly notes. It leverages templates and scripts to streamline the creation and navigation of these notes.
 
+## Plugins
+
+- [Templater](https://silentvoid13.github.io/Templater)
+- [Periodic notes](https://github.com/liamcain/obsidian-periodic-notes)
+- [Minimal theme](https://github.com/kepano/obsidian-minimal-settings)
+
+### Enhancements
+
+- Show periodic icons in ribbon at startup
+
 ## Features
 
 ### Daily Logs
