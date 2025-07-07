@@ -5,6 +5,7 @@ async function daily() {
       return a.basename < b.basename ? -1 : 1
     })
 
+  // obsidian create new file first, so to get yesterday's file, we take the second last file
   const file = children.at(-2)
 
   let focusLines = []

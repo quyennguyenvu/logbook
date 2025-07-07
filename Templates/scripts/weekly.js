@@ -3,7 +3,7 @@ async function weekly(tp) {
   Array.from(Array(5).keys()).map((i) => {
     date = tp.date.weekday("YYYY-MM-DD", i + 1, tp.file.title, "YYYY-[W]W")
     children += `#### ${date}\n`
-    children += `![[Tracking/Daily/${date}#^today-tasks]]\n`
+    children += `![[${date}#^today-tasks]]\n`
   })
   return children
 }

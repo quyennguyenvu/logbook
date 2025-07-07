@@ -28,6 +28,6 @@
     "format": "",
     "template": "",
     "folder": "Tracking/Yearly",
-    "enabled": false
+    "enabled": true
   }
 }

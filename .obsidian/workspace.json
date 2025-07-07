@@ -158,26 +158,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": true,
       "periodic-notes:Open today": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open this year": false
     }
   },
   "active": "a2696a867cb703a4",
   "lastOpenFiles": [
+    "Tracking/Weekly/2025-W18.md",
+    "Tracking/Weekly/2025-W28.md",
     "Tracking/Daily/2025-04-30.md",
+    "Tracking/Daily/2025-05-01.md",
+    "Tracking/Yearly/2025.md",
     "README.md",
+    "Tracking/Yearly",
     "image.png",
     "Templates/Weekly.md",
     "Templates/Daily.md",
     "attachments/Pasted image 20250502005945.png",
     "attachments/Pasted image 20250502010422.png",
-    "Tracking/Weekly/2025-W18.md",
-    "Tracking/Daily/2025-05-01.md",
     "attachments/Pasted image 20250502010013.png",
     "attachments",
     "2025-W18.md",
