@@ -7,6 +7,8 @@ for (let item of focusLines) {
 }
 -%>
 - [ ] 
+
 ^today-tasks
+
 ## 🎯 Next Up
 - 

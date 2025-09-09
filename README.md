@@ -48,7 +48,7 @@ Templates/
 
 ## Templates
 
-Templates are stored in the `Templates/` folder and are used to generate periodic notes. Each template includes placeholders for dynamic content, such as dates and custom sections.
+Templates are stored in the `Templates/` folder and are used to generate periodic notes. Each template includes placeholders for dynamic content, such as dates and custom sections. `^today-tasks` must has blank lines before and after to work with Templater.
 
 ## Scripts
 
